@@ -1,0 +1,41 @@
+li {
+  border-style: solid;
+  background-color: blue;
+  height: 20px;
+}
+.disc1{
+  width: 80px;
+  background-color: red;
+}
+.disc2{
+  width: 120px;
+  background-color: yellow;
+}
+.disc3{
+  width: 150px;
+}
+.towers{
+  display: flex;
+}
+.hanoi {
+
+}
+.win {
+  height: 20px;
+}
+.high{
+  background-color: pink;
+}
+ul {
+  padding-left: 10px;
+  padding-right: 10px;
+  list-style: none;
+  display: flex;
+  flex-direction: column-reverse;
+  height: 300px;
+  width: 150px;
+  border-bottom-style:  dashed;
+  align-items: center;
+  justify-content: flex-start;
+
+}
